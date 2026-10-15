@@ -7,4 +7,4 @@
 - [docs/overview.md](docs/overview.md) — 较长说明与工作流
 - [plugins/README.md](plugins/README.md) — 插件与导入笔记
 
-职责和正文仍为占位，之后按需填写。
+算法压测仍在设计，正文保持「待确认」。
