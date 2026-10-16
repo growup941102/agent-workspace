@@ -23,11 +23,12 @@ agents/<name>/             单个 agent
   docs/overview.md         较长说明与工作流
   plugins/README.md        该 agent 的插件与导入笔记
 shared/conventions.md      命名、提示词写法、插件文档约定
+shared/dev-gates.md        默认完整开发闸门（未说减则全开）
 shared/plugins-catalog.md  共享插件清单与导入维护笔记
 AGENTS.md                  全部 agent 的索引
 ```
 
-更细的写法见 [shared/conventions.md](shared/conventions.md)。
+更细的写法见 [shared/conventions.md](shared/conventions.md)。默认开发顺序见 [shared/dev-gates.md](shared/dev-gates.md)：未说减流程或跳过某步，则闸门全开。
 
 ## 当前 agent
 

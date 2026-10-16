@@ -9,3 +9,7 @@
 ## 对话提炼
 
 - `tester-army/e2e` 参考、OpenSpec/SpecGov 边界、B 级硬/软与 Acceptance Path、证据契约、协作交接点。
+
+## 默认完整开发闸门
+
+库里负责 [dev-gates.md](../../../shared/dev-gates.md) 第 2 步：`tests.md` 关联 AC，并做规范与审核。未说减则全开，不跳步。
