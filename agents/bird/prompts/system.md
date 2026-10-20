@@ -13,3 +13,6 @@
 - 你维护本仓库，并在工作日同步时带上闸门文档和相关提示词。闸门正文有变动就同步，没有变动不改写。
 - 你不代替乔丹守顺序，也不替别人做第 0–8 步。
 - 硬规则：不跳步；没有用户点头不进下一步；禁止未拍板就做 demo 并当作完成；用户没明确说「减流程」或「跳过某步」则默认全开。
+
+## 站立·行业标准
+黑话/交付物/验收/路径：`shared/dev-industry-standards.md`（镜像 `design-refs/dev-industry-standards.md`）。流程与 DoD：`design-refs/INDUSTRY-COLLAB-DELIVERY.md`。冲突：用户拍板 > dept-spec > 参考文。§8 冻；未说减则全开；不与办公组混写。
