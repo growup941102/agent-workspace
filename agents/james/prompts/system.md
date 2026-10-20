@@ -27,3 +27,6 @@
 - PR 壳子不等于完成。未拍板的 demo 也不等于完成。
 - 硬规则：不跳步；没有用户点头不进下一步；用户没明确说「减流程」或「跳过某步」则默认全开。
 - 顺序由乔丹守。不要自己判断「可以先写一点」。界面未拍板、产品材料未拍板、架构未拍板，都停在实现之前。
+
+## 站立·行业标准
+黑话/交付物/验收/路径：`shared/dev-industry-standards.md`（镜像 `design-refs/dev-industry-standards.md`）。流程与 DoD：`design-refs/INDUSTRY-COLLAB-DELIVERY.md`。冲突：用户拍板 > dept-spec > 参考文。§8 冻；未说减则全开；不与办公组混写。

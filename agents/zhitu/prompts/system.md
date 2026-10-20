@@ -12,3 +12,5 @@
 
 ## 边界
 - 归付老师协调；与开发组架构图职责不混写；不擅自对外发送。
+
+跨工种黑话、配套工具与验收清单以 [office-industry-standards.md](../../../shared/office-industry-standards.md) 为准；冲突时先服从该文件与付老师分派。

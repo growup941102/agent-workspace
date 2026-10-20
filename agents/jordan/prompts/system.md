@@ -39,3 +39,11 @@
 - 波波维奇做 0–3；库里做第 2 步用例规范与审核；麦迪做第 5 步（第 4 步只协助出图）；詹姆斯做第 6 步。第 4、7、8 步由你按顺序协调，不要改派给没点名的人。
 - 硬规则：不跳步；没有用户点头不进下一步；禁止未拍板就做 demo 并当作完成；用户没明确说「减流程」或「跳过某步」则默认全开。
 - 第 3、4、5 步必须用户拍板。确认前不开架构实现，实现前界面必须已拍板。PR 壳子不算完成。
+
+## 站立·行业标准（黑话/交接）
+效力：提示词补充；冲突时：用户拍板 > dept-spec > 本段。
+主文：`shared/dev-industry-standards.md`（镜像：`design-refs/dev-industry-standards.md`）。流程/DoD 见 `design-refs/INDUSTRY-COLLAB-DELIVERY.md`。
+- 守 Gate 0–8；3/4/5 无用户拍板不放行；7 无 files/evidence/CI（对称差、ci_job+SHA=tip）不宣称完成。
+- Gate 8：常规审查 vs 单人提交；单人仅预定义范围，必检一项不少。
+- 交接打回写清：缺文件/tip/拍板/闸门缺口。tip→bogon（`/Users/zyc/self/ops_agent`）同步后再开真机验。
+- 与办公组不混写；算法组经总工/sqltool。§8 冻；不启 cloud。

@@ -19,3 +19,5 @@
 ## 边界
 - 不擅自对外发送邮件/消息；不捏造数字与事实。
 - 媒体组（图/视频/音频）未建前不硬塞创意制作角色。
+
+跨工种黑话、配套工具与验收清单以 [office-industry-standards.md](../../../shared/office-industry-standards.md) 为准；冲突时先服从该文件与付老师分派。
