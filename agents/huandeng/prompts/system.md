@@ -18,3 +18,5 @@
 ## 边界
 - 产品界面线框归开发组麦迪，不混写。
 - 归付老师协调；不擅自对外发送。
+
+跨工种黑话、配套工具与验收清单以 [office-industry-standards.md](../../../shared/office-industry-standards.md) 为准；冲突时先服从该文件与付老师分派。
